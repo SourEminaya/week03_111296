@@ -1,0 +1,16 @@
+1) Multidimensional array merupakan sebuah array yang memiliki lebih dari 1 dimensi penyimpanan (dalam kata lain, array ini menyimpan di dalamnya sebuah array), salah satu contoh yang bisa dibuat merupakan sebuay matrix yang disimpan dalam bentuk array, contoh ini berbentuk seperti int [][]
+2) 	charAt()	Returns the character at the specified index (position)	
+codePointAt()	Returns the Unicode of the character at the specified index	
+codePointBefore()	Returns the Unicode of the character before the specified index	
+codePointCount()	Returns the number of Unicode values found in a string.	
+compareTo()	Compares two strings lexicographically	
+compareToIgnoreCase()	Compares two strings lexicographically, ignoring case differences	
+concat()	Appends a string to the end of another string	
+contains()	Checks whether a string contains a sequence of characters	
+contentEquals()	Checks whether a string contains the exact same sequence of characters of the specified CharSequence or StringBuffer	
+copyValueOf()	Returns a String that represents the characters of the character array	
+endsWith()	Checks whether a string ends with the specified character(s)	
+equals()	Compares two strings. Returns true if the strings are equal, and false if not	
+equalsIgnoreCase()	Compares two strings, ignoring case considerations	
+format()	Returns a formatted string using the specified locale, format string, and arguments	
+3)Kemudahan caching dan perlindungan dari mutasi/perubahan identitas 
